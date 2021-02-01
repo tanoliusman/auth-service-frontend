@@ -1,4 +1,4 @@
 const properties = {
-    API_URL: 'https://warm-anchorage-15348.herokuapp.com/api'
+    API_URL: 'http://localhost:8080/api'
     }
 export default properties;
